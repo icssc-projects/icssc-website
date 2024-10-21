@@ -1,6 +1,13 @@
 {
     "events": [
         {
+            "src":"/assets/img/events/event_bits-and-bytes-reveal.png",
+            "title":"Bits & Bytes Fam Reveal",
+            "time":"2024-10-23",
+            "location": "DBH 6011 7-8 PM",
+            "desc": "Drum roll please, for our ICSSC Bits and Bytes Reveal!!! If you signed up to become a Bit for ICSSC's Bits and Bytes program, Join us Wednesday, October 23rd from 7-8 pm for our Bits and Bytes Fam Reveal! 🙌 Meet your bytes, celebrate with your co-bits, and compete against other families with your new friends and mentors! 🏁"
+        },
+        {
             "src":"/assets/img/events/event_internship-panel.png",
             "title":"Internship Panel",
             "time":"2024-10-16",
