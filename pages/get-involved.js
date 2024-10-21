@@ -49,13 +49,13 @@ export default function GetInvolved() {
             <a href="https://join.icssc.club" target="_blank" rel="noreferrer">
               Applications are open!
             </a>
-          </b>
+          </b> */}
           <p> ICS Students can apply to any of the following committees.</p>
           <div className={styles.committeeContainer}>
             {CommitteesJSON.map((committee) => (
               <Committee {...committee} key={committee.name} />
             ))}
-          </div> */}
+          </div>
         </div>
 
         <div className={styles.oneContainer}>
