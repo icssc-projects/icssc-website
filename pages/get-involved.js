@@ -42,10 +42,10 @@ export default function GetInvolved() {
 
         <div className={styles.oneContainer}>
           <h2>Apply To Our Committees</h2>
-          {/* <b>
-            Applications are closed. Check back in Fall Quarter for recruitment.
-          </b> */}
           <b>
+            Applications are closed. Check back in Fall Quarter for recruitment.
+          </b>
+          {/* <b>
             <a href="https://join.icssc.club" target="_blank" rel="noreferrer">
               Applications are open!
             </a>
@@ -55,7 +55,7 @@ export default function GetInvolved() {
             {CommitteesJSON.map((committee) => (
               <Committee {...committee} key={committee.name} />
             ))}
-          </div>
+          </div> */}
         </div>
 
         <div className={styles.oneContainer}>
