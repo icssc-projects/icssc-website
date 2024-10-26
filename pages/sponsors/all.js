@@ -1,21 +1,21 @@
 import { Col, Container, Row } from "react-bootstrap";
-import SponsorsData from '../../assets/data/sponsors.json';
+import SponsorsData from "../../assets/data/sponsors.json";
 
 function Sponsor(props) {
-  const {id, name, description, isPremium, link, logo} = props;
+  const { id, name, description, isPremium, link, logo } = props;
 
   return (
     <div id={id}>
       <>
         <Row className="mb-5">
-          <Col lg={6} className='align-self-center text-center'>
-            <a href={isPremium ? `sponsors/${id}` : link}>
-              <img 
+          <Col lg={6} className="align-self-center text-center">
+            <a href={isPremium ? `${id}` : link}>
+              <img
                 src={logo}
                 alt={`${name} logo`}
-                width='300'
-                height='150'
-                style={{objectFit:"contain"}}
+                width="300"
+                height="150"
+                style={{ objectFit: "contain" }}
               />
             </a>
           </Col>
@@ -28,17 +28,19 @@ function Sponsor(props) {
         </Row>
       </>
     </div>
-  )
+  );
 }
 
 export default function Sponsors() {
   return (
-    <Container style={{minHeight:"calc(80vh)"}}>
+    <Container style={{ minHeight: "calc(80vh)" }}>
       <div className="banner">
         <h1>Sponsors</h1>
       </div>
       {/* <h2 style={{textAlign:"center"}}>More sponsor info coming soon!</h2> */}
-      {SponsorsData.map(sponsor => <Sponsor {...sponsor} key={sponsor.name}/>)}
+      {SponsorsData.map((sponsor) => (
+        <Sponsor {...sponsor} key={sponsor.name} />
+      ))}
     </Container>
-  )
+  );
 }
