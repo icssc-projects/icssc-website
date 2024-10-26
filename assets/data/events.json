@@ -1,6 +1,13 @@
 {
     "events": [
         {
+            "src":"/assets/img/events/event_mock-interview.png",
+            "title":"Mock Interviews",
+            "time":"2024-10-30",
+            "location": "Zoom 6:30-8 PM",
+            "desc": "📋 Want to sharpen your interview skills? Join ICSSC's Mock Interviews!✏️ You'll get the chance to practice one-on-one interviews and receive personalized feedback to help you improve. Feel free to bring your resume so your interviewer can tailor questions based on your experience.💻 Interviews will be held on Zoom and will run for 15 minutes. 📌 Whether you're preparing for an internship, your first job, or just want to learn what an interview process is like, we'll help you build confidence and improve your skills!"
+        },
+        {
             "src":"/assets/img/events/event_bits-and-bytes-reveal.png",
             "title":"Bits & Bytes Fam Reveal",
             "time":"2024-10-23",
