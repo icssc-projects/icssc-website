@@ -1,6 +1,13 @@
 {
     "events": [
         {
+            "src":"/assets/img/events/event_two-rooms-and-a-boom.png",
+            "title":"Two Rooms and a Boom!",
+            "time":"2024-11-06",
+            "location": "DBH 6011 7-8 PM",
+            "desc": "Do you like socializing or problem solving better? Well you can do both with social deduction! You’ve probably played Werewolf, Mafia, or AMONG US, but this Wednesday will feature the fantastic game Two Rooms and a Boom, which actually takes place in two real life rooms! Come join us in a battle of wits against your friends!"
+        },
+        {
             "src":"/assets/img/events/event_mock-interviews.png",
             "title":"Mock Interviews",
             "time":"2024-10-30",
