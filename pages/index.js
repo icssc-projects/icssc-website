@@ -173,7 +173,7 @@ export default function Home() {
               ))}
             </div>
             <p>
-              <a href="/sponsors">See All Sponsors ></a>
+              <a href="/sponsors/all">See All Sponsors ></a>
             </p>
           </Col>
         </Row>
