@@ -1,6 +1,20 @@
 {
     "events": [
         {
+            "src":"/assets/img/events/event_hackathon-101.png",
+            "title":"Hackathon 101",
+            "time":"2024-11-14",
+            "location": "DBH 6011 7-8 PM",
+            "desc": "Are you coming to WebJam and have no idea where to start? 👩‍💻Or are you thinking on applying to any of the UCI Hackathons this year? 👾 Maybe you just have no idea what a Hackathon even is but would like to change that! Join ICSSC and Hack at UCI on our Hackathon prep sesh, right before our Week 8 WebJam."
+        },
+        {
+            "src":"/assets/img/events/event_ics-pathways.png",
+            "title":"ICS Pathways",
+            "time":"2024-11-13",
+            "location": "DBH 6011 7-8 PM",
+            "desc": "Wondering what your future in ICS looks like with a specialization? Well look no further than our upcoming ICS Pathways Classes and Specialization Panel with ICS Alumni. You’ll get to hear how specializing helped them prepare for industry, know what classes were their favorite! Don’t miss this opportunity to explore your CS pathway and gain valuable insights from alumni who’ve navigated these decisions before you."
+        },
+        {
             "src":"/assets/img/events/event_two-rooms-and-a-boom.png",
             "title":"Two Rooms and a Boom!",
             "time":"2024-11-06",
