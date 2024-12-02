@@ -1,6 +1,13 @@
 {
     "events": [
         {
+            "src":"/assets/img/events/event_cookie-decorating.png",
+            "title":"Cookie Decorating",
+            "time":"2024-12-04",
+            "location": "DBH 6011 7-8 PM",
+            "desc": "Want a break from studying? Need some sweets and social interaction before locking in? 🍪 Come out to ICSSC's Cookie Decorating on Wednesday! We have cookies ready for you to glamourize with frosting and sprinkles! Bring your friends and have a fun, festive time! 🎄"
+        },
+        {
             "src":"/assets/img/events/event_hackathon-101.png",
             "title":"Hackathon 101",
             "time":"2024-11-14",
