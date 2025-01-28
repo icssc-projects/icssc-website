@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "src": "/assets/img/events/event_resume-workshop.png",
+      "title": "Resume Workshop",
+      "time": "2025-01-29",
+      "location": "Zoom 7-8 PM",
+      "desc": "Feeling the heat of internship season? 🫨 Receive resume feedback at our ICSSC Resume Workshop this Wednesday 7-8pm on Zoom! 🖥️ Work with upper-classmen to integrate action words and metrics to capture recruiters’ attention. 🧑‍💻👩‍💻"
+    },
+    {
       "src": "/assets/img/events/event_icssc-faculty-panel.png",
       "title": "ICS Faculty Panel",
       "time": "2025-01-22",
