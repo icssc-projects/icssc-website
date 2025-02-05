@@ -2,6 +2,13 @@
   "events": [
     {
       "src": "/assets/img/events/event_resume-workshop.png",
+      "title": "Intro to AI Workshop",
+      "time": "2025-02-05",
+      "location": "DBH 6011 7-8 PM",
+      "desc": "🚀 Want to dive into Artificial Intelligence?🤖 Join AI@UCI & ICSSC for a fun and interactive hands-on Intro to AI Workshop where you'll train your own model and learn the basics of AI! Then, put your knowledge to the test in a game of Kahoot for a chance to win $40 in gift card prizes!🎉 Stick around after for a social at UTC! 🍕✨"
+    },
+    {
+      "src": "/assets/img/events/event_resume-workshop.png",
       "title": "Resume Workshop",
       "time": "2025-01-29",
       "location": "Zoom 7-8 PM",
