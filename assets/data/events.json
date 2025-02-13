@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "src": "/assets/img/events/event_cupids-mailbox-crafts.png",
+      "title": "Cupid's Mailbox Crafts",
+      "time": "2025-02-12",
+      "location": "DBH 6011 7-8 PM",
+      "desc": "🫵🏼 Debug your love life this Valentine’s Day—come decorate a mailbox and finally send a message that’s more than just “Hello World”! 🍫If your love life feels as empty as your GitHub repo, it’s time to fill it with treats and valentines at Cupid’s Mailbox! 💌 We’ll provide all the materials you need to craft your perfect mailbox—whether you’re sending valentines to someone special or yourself (no judgement), we’ve got you covered!"
+    },
+    {
       "src": "/assets/img/events/event_intro-to-ai-workshop.png",
       "title": "Intro to AI Workshop",
       "time": "2025-02-05",
